@@ -25,7 +25,7 @@
 .div-1 {
     background-image: url(netflix.jpg);
     background-size: cover;
-    height: 450px;
+    height: 460px;
     
 }
 .image{
@@ -34,6 +34,47 @@
     margin-top:1rem;
 }
 
+.p{
+    color: white;
+    margin-left: 40rem;
+    font-size: 25px;
+   justify-content: center;
+}
+
+.form{
+    background-color: black;
+}
+
+.button{
+    font-size: 20px;
+    color:white;
+    background-color: red;
+    margin-left:45rem;
+}
+.form{
+    margin-left: 20rem;
+    font-size: 1.5rem;
+
+}
+
+.div-email{
+    gap: 1rem;
+}
+
+.tv > h1{
+    color: white;
+    margin-left: 27rem;
+    font-size: 4rem;
+    gap: 3rem;
+}
+
+
+
+.tv > p {
+    color: white;
+    font-size: 35px;
+    margin-left:27rem ;
+}
 
 
 
