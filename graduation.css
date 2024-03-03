@@ -1,4 +1,41 @@
 .header{
     background-color: white;
-    height: 3rem;
+   
 }
+
+.body{
+    background-color: black;
+}
+
+.div-head{
+    display: flex;
+    gap: 75rem;
+}
+
+.h1-main{
+    justify-content: center;
+    padding-left: 40rem;
+    margin-top: 0.1rem;
+    color:white;
+    font-size: 4rem;
+}
+
+
+
+.div-1 {
+    background-image: url(netflix.jpg);
+    background-size: cover;
+    height: 450px;
+    
+}
+.image{
+    height: 40px;
+    margin-left: 2rem;
+    margin-top:1rem;
+}
+
+
+
+
+    
+
